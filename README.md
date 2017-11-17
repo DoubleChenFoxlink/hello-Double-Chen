@@ -1,2 +1,3 @@
 # hello-Double-Chen
-my name is Double Chen
+我叫双陈
+myschool
